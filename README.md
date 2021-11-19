@@ -4,7 +4,7 @@ KeySight 53230A Universal Frequency Counter Application
 
 ## PROJECT: Time Interval Application 
 ----------------------------------------------
-![pyclockapp_picture.png](images/pyclockapp_picture.png)
+![pyclockapp_picture](images/pyclockapp_png.png)
 The purpose was to convert auto hot key (ahk) time interval gui into Python TKinter gui and bypass the Keysight standard GUI applicaiton. 
 
 ## Issues w/ Auto Hot Key (AHK) Keysight GUI:
@@ -15,25 +15,25 @@ Keysight does have a gui interface that can run SCPI commands, but this includes
     
 ## SKILLS USED/LANGUAGES:
 -------------------------
-    * Python-TKinter package
-    * AHK- Auto Hot Key is Windows based scritpting language
-    * SCPI - Standard Commands for Programmable Instruments  
-    * Powershell- desktop icon to run script
+* Python-TKinter package
+* AHK- Auto Hot Key is Windows based scritpting language
+* SCPI - Standard Commands for Programmable Instruments  
+* Powershell- desktop icon to run script
 
 ## Achievments:
 ---------------------------------------------
-    *Reduced lines of code: AHK(667) to Python(333)
-    *Easy transition of knowledge 
-    *Faster interval time measurements 
+*Reduced lines of code: AHK(667) to Python(333)
+*Easy transition of knowledge 
+*Faster interval time measurements 
 
 ## Process:
 ---------------------------------------------
-    1) Transcribing the AHK language into plain english 
-    2) Working with the user to ensure their needs are met
-    3) Hand drawn layout of the GUI layout
-    4) Reading TKinter and Keysight Frequency Counter documentation 
-    5) Finding pieces of GUI methods online
-    6) Developing For/While loops to run the time interval measurments 
+1) Transcribing the AHK language into plain english 
+2) Working with the user to ensure their needs are met
+3) Hand drawn layout of the GUI layout
+4) Reading TKinter and Keysight Frequency Counter documentation 
+5) Finding pieces of GUI methods online
+6) Developing For/While loops to run the time interval measurments 
     
 ## Other references:
 ----------------------------------------------
