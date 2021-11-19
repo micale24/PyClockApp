@@ -4,13 +4,14 @@ KeySight 53230A Universal Frequency Counter Application
 
 ## PROJECT: Time Interval Application 
 ----------------------------------------------
-![pyclockapp_picture.png](Images/pyclockapp_picture.png)
+![pyclockapp_picture.png](images/pyclockapp_picture.png)
 The purpose was to convert auto hot key (ahk) time interval gui into Python TKinter gui and bypass the Keysight standard GUI applicaiton. 
 
 ## Issues w/ Auto Hot Key (AHK) Keysight GUI:
 ---------------------------------------------
-    The AHK gui was locking the user out of the computer once the gui started.  The gui had other counters that the technicians no longer used.  And AHK is not a well known language for other programmers to understand and improve performance. 
-    Keysight does have a gui interface that can run SCPI commands, but this includes more software for the user to download and become familar.   
+The AHK gui was locking the user out of the computer once the gui started.  The gui had other counters that the technicians no longer used.  
+And AHK is not a well known language for other programmers to understand and improve performance. 
+Keysight does have a gui interface that can run SCPI commands, but this includes more software for the user to download and become familar.   
     
 ## SKILLS USED/LANGUAGES:
 -------------------------
