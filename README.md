@@ -1,5 +1,5 @@
 # PyClockApp
 
-"/pyclockapp_pic.png"
+",/pyclockapp_pic.png"
 53230A Universal Frequency Counter Application 
 
