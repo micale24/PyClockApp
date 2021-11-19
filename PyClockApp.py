@@ -1,12 +1,10 @@
 ##############===----Time Clock App Overview----===###################
-#   aNIYAH FLIGHT CONFIRMATION GYGBRH  PIN 0908  
-# cHANGE UNACCOMPANIED NUMBER 8003258847  
 '''
     References 
     https://tkdocs.com/tutorial/index.html
     https://pyvisa.readthedocs.io/en/latest/introduction/index.html
     https://www.codegrepper.com/code-examples/python/how+to+append+a+list+to+a+text+file+in+python
-    DO NEED TO CREATE EXTERNAL DOCUMENTAION FOR THE ENTIRE APP
+    
 '''
 import os
 import datetime as dt
